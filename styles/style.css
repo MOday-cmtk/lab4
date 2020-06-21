@@ -1,0 +1,25 @@
+  
+
+/* Style sheet
+   color picker www.w3schools.com/colors/colors_picker.asp
+*/
+
+/* Bootstrap default font-family is Helvetica Neue */
+h1 {
+  font-family: "Times New Roman", Times
+    
+}
+
+p5 {
+    font-size: 9px
+}
+
+p6 {
+    font-family: times;
+    color: black
+}
+
+p11{
+    color: black
+}
+
